@@ -1,0 +1,16 @@
+Bonsoir aujourd'hui on va attaquer les algorithmes:
+d'abord on va parler des variables
+-les variables: elles nous servent de stocker des informations au cours d'un programme.
+en langage C, une variable est constituée de deux choses:
+-une Valeur: c'est le nombre qu'elle stocke
+-un Nom: c'est qui permet de la reconnaitre
+ils existent différents types de variables:
+les types dit numérique: les entier et les réels
+les alphanumériques:chaines de caractères
+les booléens: vrai ou faux
+1-les types numériques:
+les entier: int
+les réels: float
+2-les alphanumériques:
+les chaines de caractères: "bonjour"
+3-les booléens: Vrai ou Faux
